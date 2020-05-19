@@ -10,7 +10,7 @@ document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Fxckgkd/goInd
 document.write('<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@6.9/css/nexmoe_v2.min.css">');
 document.write('<script src="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@6.9/js/mdui.min.js"></script>');
 document.write('<script src="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@6.9/js/flv.min.js"></script>');
-document.write('<script src="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@6.9/js/DPlayer.min.js"></script>');
+document.write('<script src="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@7.0/js/DPlayer.min.js"></script>');
 document.write('<script src="https://cdnjs.loli.net/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>');
 // markdown支持
 document.write('<script src="//cdn.jsdelivr.net/gh/Fxckgkd/goIndex-theme-Fxck@6.9/js/markdown-it.min.js"></script>');
@@ -32,7 +32,7 @@ function init() {
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://Fxck1024.top/" target="_blank">博客</a></li>
 					<li class="menu_li"><a href="https://gkdaria2.herokuapp.com//" target="_blank">aria2</a></li>
-					<li class="menu_li"><a href="https://ghshh.herokuapp.com//" target="_blank">aria2h</a></li>
+					
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
