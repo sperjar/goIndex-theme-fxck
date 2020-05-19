@@ -27,7 +27,7 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
 	<div class="navSize">
-			<a href="/"><img class="avatar" src="https://gitee.com/Fxck666/Fxck/raw/master/image/g.jpg"/></a>
+			<a href="/"><img class="avatar" src="https://www.helloimg.com/images/2020/05/19/kwyf260eea8ccd9baab.webp"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://Fxck1024.top/" target="_blank">博客</a></li>
