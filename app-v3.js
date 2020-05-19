@@ -847,7 +847,7 @@ const dp = new DPlayer({
     },
     subtitle: {
         url: subtitle,
-        fontSize: '21px',
+        fontSize: '19px',
         bottom: '10%',
         color: '#FFFFFF',
     },
