@@ -31,7 +31,7 @@ function init() {
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://Fxck1024.top/" target="_blank">博客</a></li>
-					<li class="menu_li"><a href="https://gkdaria2.herokuapp.com//" target="_blank">aria2</a></li>
+					<li class="menu_li"><a href="https://gkdaria2.herokuapp.com/" target="_blank">aria2</a></li>
 					
 				</ul>
 				<div class="nav_icon" ></div>
@@ -847,7 +847,7 @@ const dp = new DPlayer({
     },
     subtitle: {
         url: subtitle,
-        fontSize: '18px',
+        fontSize: '23px',
         bottom: '10%',
         color: '#FFFFFF',
     },
